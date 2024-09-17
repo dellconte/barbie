@@ -1,13 +1,12 @@
-<h1> Barbie o Filme </h1>
-<br>
-<p align="center">
-  <img alt="Barbie O Filme" src="captura.jpg" width="100%">
-</p>
+  <h1>Barbie o Filme</h1>
 
-## Tecnologias
-- HTML
-- CSS
-- JavaScript
+  <p>
+    <img alt="Barbie O Filme" src="https://github.com/dellconte/barbie/blob/main/assets/captura.jpg" />
+  </p>
 
-
-https://github.com/dellconte/barbie/blob/main/assets/captura.jpg
+  <h2>Tecnologias</h2>
+  <ul class="technologies">
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
