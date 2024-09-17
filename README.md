@@ -8,3 +8,6 @@
 - HTML
 - CSS
 - JavaScript
+
+
+https://github.com/dellconte/barbie/blob/main/assets/captura.jpg
